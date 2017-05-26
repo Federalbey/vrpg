@@ -1,9 +1,9 @@
 {
     "cookies": [
-        "Sana Çikolatalý kurabiye verdi",
-        "Sana Yumuþak kurabiye verdi",
-        "Sana Kurumuþ, eskimiþ kurabiye verdi. Torban içinde bir tek o duruyor. LANET!",
-        "Sana Þeker kurabiyesi verdi. Ne, buzlanma ve serpme yok mu? 0\/10 dokunmazd\u0131.",
+        "Sana Ã‡ikolatalÄ± kurabiye verdi",
+        "Sana YumuÅŸak kurabiye verdi",
+        "Sana KurumuÅŸ, eskimiÅŸ kurabiye verdi. Torban iÃ§inde bir tek o duruyor. LANET!",
+        "Sana Åžeker kurabiyesi verdi. Ne, buzlanma ve serpme yok mu? 0\/10 dokunmazd\u0131.",
         "Sana \u00c7ikolatal\u0131 kurabiye verdi. Oh wait.... Bunlar kuru \u00fcz\u00fcm. Kahretsin!",
         "Kocaman kurabiye verdi. Bast\u0131r\u0131rsan daha fazla kurabiye al\u0131yorsun. Garip.",
         "Sana bir \u015fans kurabiyesi verdi. \"Neden herhangi bir proje \u00fczerinde \u00e7al\u0131\u015fm\u0131yorsunuz?\"",
@@ -187,7 +187,7 @@
     "roomrules": "\/me Lutfen oda kurallarini okuyun: %%LINK%%",
     "sessionstats": "\/me [@%%NAME%%] Toplam WOOT: %%WOOTS%%, Toplam MEH: %%MEHS%%, TOPLAM GRAB: %%GRABS%%.",
     "forceskip": "\/me [%%NAME%% used forceskip]",
-    "madeby": "\/me Bu bot %%NAME%% tarafindan yapildi.",
+    "madeby": "\/me Bu bot Federal tarafindan dÃ¼zenlendi.",
     "activefor": "Ben %%TIME%% arayla afk oldum.",
     "swapinvalid": "\/me [@%%NAME%%] gecersiz kullanici.",
     "swapwlonly": "\/me [@%%NAME%%] DJ listesindeki kullanici takas icin memnun.",
